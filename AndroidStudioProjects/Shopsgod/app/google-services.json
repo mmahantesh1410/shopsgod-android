@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "576209669154",
+    "firebase_url": "https://shopsgod-2072d.firebaseio.com",
+    "project_id": "shopsgod-2072d",
+    "storage_bucket": "shopsgod-2072d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576209669154:android:7a54f78eae815cab620e7b",
+        "android_client_info": {
+          "package_name": "app.shopsgod.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576209669154-dm1u7a4j313tiecq2j7vg59n194kqkjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy53FlC7-R7CECe53L5P2gn5z1cvFzRSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576209669154-dm1u7a4j313tiecq2j7vg59n194kqkjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
